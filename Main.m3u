@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
+
 #EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-logo="http://4f.rs:80/images/76a92147c70b5ef1b3c7385b011e5436.png" group-title="CANAIS | ESPORTES ESPECIAIS",UFC FIGHT PASS
 http://4f.rs:80/Paulo027/91814185/1524258.ts
 #EXTINF:-1 tvg-name="UFC TV" tvg-logo="http://4f.rs:80/images/150c98bffb7560dc400c49a3d54b0d4a.png" group-title="CANAIS | ESPORTES ESPECIAIS",UFC TV
